@@ -68,10 +68,6 @@ logs/
 application-local.properties
 application-dev.properties
 
-# Build directories
-build/
-dist/
-out/
 
 # Test coverage
 .coverage
