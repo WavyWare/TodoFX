@@ -1,2 +1,5 @@
-Zrobić domowe
-1919919
+Fork JavaFX Chess
+Build Gentoo
+Rewrite all Arch Linux configs in vim
+Uninstall Windows
+Memorize all keybindings on i3wm
